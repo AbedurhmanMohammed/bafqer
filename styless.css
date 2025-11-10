@@ -42,7 +42,7 @@
 }
 #book{
      width: 25%;
-    border: 1px solid rgb(232, 14, 14);
+    border: 1px solid rgb(232, 232, 14);
  
     padding: 10px;
     background-color: rgb(255, 236, 211);
@@ -68,7 +68,7 @@
     text-align: center;
 }
 footer{
-    background-color: rgb(232, 170, 95);
+    background-color: rgb(246, 199, 142);
     padding: 15px;
     text-align: center;
     padding-bottom: 10px;
